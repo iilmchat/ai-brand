@@ -154,6 +154,9 @@ const primary = hexFromArgb(scheme.colors.primary().getArgb(scheme)) // #6B38D4
 
 ## Где используется
 
+**IIRuChating** — бренд. **AI Ru Chating** — программный комплекс (корпоративный мессенджер
+с локальным AI-ассистентом), построенный на материалах этого брендкита.
+
 | Репозиторий | Как |
 |---|---|
 | [`iilmchat/ai-ruchating`](https://github.com/iilmchat/ai-ruchating) | ассеты в `client/public/brand/`, роли M3 в `client/src/styles/theme-m3.css`, мост в Tailwind — `client/src/styles/brand.css` |
