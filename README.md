@@ -9,6 +9,8 @@
 
 ## Быстрый старт
 
+Репозиторий публичный: клон доступен всем, условия использования бренда — в [LICENSE.md](LICENSE.md).
+
 ```bash
 git clone https://github.com/iilmchat/ai-brand.git
 cp ai-brand/{logo-icon.svg,logo-full.svg,favicon.svg,favicon.ico,apple-touch-icon.png} public/images/
