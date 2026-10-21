@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1010" viewBox="0 0 1200 1010">
+<rect width="1200" height="1010" fill="#FFFFFF"/>
+<rect width="1200" height="140" fill="#000000"/>
+<text x="60" y="76" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="34" font-weight="800" fill="#FFFFFF">Material 3 палитра IIRuChating</text>
+<text x="60" y="112" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" fill="#CBD5E1">Primary #8B5CF6 · Tertiary #0EA5E9 · Error — стандарт M3 · Fidelity</text>
+<text x="60" y="184" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="18" font-weight="800" fill="#0F172A">Тональные палитры (tone 0–100)</text>
+<text x="60" y="212" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" fill="#475569">Primary</text>
+<rect x="60.00" y="220" width="83.08" height="44" fill="#000000" stroke="#E2E8F0" stroke-width="1"/>
+<text x="101.54" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">0</text>
+<rect x="143.08" y="220" width="83.08" height="44" fill="#23005C" stroke="#E2E8F0" stroke-width="1"/>
+<text x="184.62" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">10</text>
+<rect x="226.15" y="220" width="83.08" height="44" fill="#3C0091" stroke="#E2E8F0" stroke-width="1"/>
+<text x="267.69" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">20</text>
+<rect x="309.23" y="220" width="83.08" height="44" fill="#5516BE" stroke="#E2E8F0" stroke-width="1"/>
+<text x="350.77" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">30</text>
+<rect x="392.31" y="220" width="83.08" height="44" fill="#6D3BD7" stroke="#E2E8F0" stroke-width="1"/>
+<text x="433.85" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">40</text>
+<rect x="475.38" y="220" width="83.08" height="44" fill="#8758F2" stroke="#E2E8F0" stroke-width="1"/>
+<text x="516.92" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">50</text>
+<rect x="558.46" y="220" width="83.08" height="44" fill="#A078FF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="600.00" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">60</text>
+<rect x="641.54" y="220" width="83.08" height="44" fill="#B89BFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="683.08" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">70</text>
+<rect x="724.62" y="220" width="83.08" height="44" fill="#D0BCFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="766.15" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">80</text>
+<rect x="807.69" y="220" width="83.08" height="44" fill="#E9DDFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="849.23" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">90</text>
+<rect x="890.77" y="220" width="83.08" height="44" fill="#F6EDFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="932.31" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">95</text>
+<rect x="973.85" y="220" width="83.08" height="44" fill="#FFFBFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1015.38" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">99</text>
+<rect x="1056.92" y="220" width="83.08" height="44" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1098.46" y="247" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">100</text>
+<text x="60" y="286" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" fill="#475569">Secondary</text>
+<rect x="60.00" y="294" width="83.08" height="44" fill="#000000" stroke="#E2E8F0" stroke-width="1"/>
+<text x="101.54" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">0</text>
+<rect x="143.08" y="294" width="83.08" height="44" fill="#220B4E" stroke="#E2E8F0" stroke-width="1"/>
+<text x="184.62" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">10</text>
+<rect x="226.15" y="294" width="83.08" height="44" fill="#372464" stroke="#E2E8F0" stroke-width="1"/>
+<text x="267.69" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">20</text>
+<rect x="309.23" y="294" width="83.08" height="44" fill="#4E3B7C" stroke="#E2E8F0" stroke-width="1"/>
+<text x="350.77" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">30</text>
+<rect x="392.31" y="294" width="83.08" height="44" fill="#665396" stroke="#E2E8F0" stroke-width="1"/>
+<text x="433.85" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">40</text>
+<rect x="475.38" y="294" width="83.08" height="44" fill="#806CB1" stroke="#E2E8F0" stroke-width="1"/>
+<text x="516.92" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">50</text>
+<rect x="558.46" y="294" width="83.08" height="44" fill="#9A85CC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="600.00" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">60</text>
+<rect x="641.54" y="294" width="83.08" height="44" fill="#B5A0E9" stroke="#E2E8F0" stroke-width="1"/>
+<text x="683.08" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">70</text>
+<rect x="724.62" y="294" width="83.08" height="44" fill="#D0BCFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="766.15" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">80</text>
+<rect x="807.69" y="294" width="83.08" height="44" fill="#E9DDFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="849.23" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">90</text>
+<rect x="890.77" y="294" width="83.08" height="44" fill="#F6EDFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="932.31" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">95</text>
+<rect x="973.85" y="294" width="83.08" height="44" fill="#FFFBFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1015.38" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">99</text>
+<rect x="1056.92" y="294" width="83.08" height="44" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1098.46" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">100</text>
+<text x="60" y="360" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" fill="#475569">Tertiary</text>
+<rect x="60.00" y="368" width="83.08" height="44" fill="#000000" stroke="#E2E8F0" stroke-width="1"/>
+<text x="101.54" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">0</text>
+<rect x="143.08" y="368" width="83.08" height="44" fill="#2C1600" stroke="#E2E8F0" stroke-width="1"/>
+<text x="184.62" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">10</text>
+<rect x="226.15" y="368" width="83.08" height="44" fill="#492900" stroke="#E2E8F0" stroke-width="1"/>
+<text x="267.69" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">20</text>
+<rect x="309.23" y="368" width="83.08" height="44" fill="#693C00" stroke="#E2E8F0" stroke-width="1"/>
+<text x="350.77" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">30</text>
+<rect x="392.31" y="368" width="83.08" height="44" fill="#8A5100" stroke="#E2E8F0" stroke-width="1"/>
+<text x="433.85" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">40</text>
+<rect x="475.38" y="368" width="83.08" height="44" fill="#AD6600" stroke="#E2E8F0" stroke-width="1"/>
+<text x="516.92" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">50</text>
+<rect x="558.46" y="368" width="83.08" height="44" fill="#D17D00" stroke="#E2E8F0" stroke-width="1"/>
+<text x="600.00" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">60</text>
+<rect x="641.54" y="368" width="83.08" height="44" fill="#F19626" stroke="#E2E8F0" stroke-width="1"/>
+<text x="683.08" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">70</text>
+<rect x="724.62" y="368" width="83.08" height="44" fill="#FFB86E" stroke="#E2E8F0" stroke-width="1"/>
+<text x="766.15" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">80</text>
+<rect x="807.69" y="368" width="83.08" height="44" fill="#FFDCBD" stroke="#E2E8F0" stroke-width="1"/>
+<text x="849.23" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">90</text>
+<rect x="890.77" y="368" width="83.08" height="44" fill="#FFEEE0" stroke="#E2E8F0" stroke-width="1"/>
+<text x="932.31" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">95</text>
+<rect x="973.85" y="368" width="83.08" height="44" fill="#FFFBFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1015.38" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">99</text>
+<rect x="1056.92" y="368" width="83.08" height="44" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1098.46" y="395" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">100</text>
+<text x="60" y="434" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" fill="#475569">Neutral</text>
+<rect x="60.00" y="442" width="83.08" height="44" fill="#000000" stroke="#E2E8F0" stroke-width="1"/>
+<text x="101.54" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">0</text>
+<rect x="143.08" y="442" width="83.08" height="44" fill="#1D1A23" stroke="#E2E8F0" stroke-width="1"/>
+<text x="184.62" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">10</text>
+<rect x="226.15" y="442" width="83.08" height="44" fill="#322F39" stroke="#E2E8F0" stroke-width="1"/>
+<text x="267.69" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">20</text>
+<rect x="309.23" y="442" width="83.08" height="44" fill="#49454F" stroke="#E2E8F0" stroke-width="1"/>
+<text x="350.77" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">30</text>
+<rect x="392.31" y="442" width="83.08" height="44" fill="#615C67" stroke="#E2E8F0" stroke-width="1"/>
+<text x="433.85" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">40</text>
+<rect x="475.38" y="442" width="83.08" height="44" fill="#7A7580" stroke="#E2E8F0" stroke-width="1"/>
+<text x="516.92" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">50</text>
+<rect x="558.46" y="442" width="83.08" height="44" fill="#948E9A" stroke="#E2E8F0" stroke-width="1"/>
+<text x="600.00" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">60</text>
+<rect x="641.54" y="442" width="83.08" height="44" fill="#AFA9B5" stroke="#E2E8F0" stroke-width="1"/>
+<text x="683.08" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">70</text>
+<rect x="724.62" y="442" width="83.08" height="44" fill="#CBC4D1" stroke="#E2E8F0" stroke-width="1"/>
+<text x="766.15" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">80</text>
+<rect x="807.69" y="442" width="83.08" height="44" fill="#E7E0ED" stroke="#E2E8F0" stroke-width="1"/>
+<text x="849.23" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">90</text>
+<rect x="890.77" y="442" width="83.08" height="44" fill="#F5EEFB" stroke="#E2E8F0" stroke-width="1"/>
+<text x="932.31" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">95</text>
+<rect x="973.85" y="442" width="83.08" height="44" fill="#FFFBFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1015.38" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">99</text>
+<rect x="1056.92" y="442" width="83.08" height="44" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1098.46" y="469" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">100</text>
+<text x="60" y="508" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" fill="#475569">Neutral variant</text>
+<rect x="60.00" y="516" width="83.08" height="44" fill="#000000" stroke="#E2E8F0" stroke-width="1"/>
+<text x="101.54" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">0</text>
+<rect x="143.08" y="516" width="83.08" height="44" fill="#1E1927" stroke="#E2E8F0" stroke-width="1"/>
+<text x="184.62" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">10</text>
+<rect x="226.15" y="516" width="83.08" height="44" fill="#332E3D" stroke="#E2E8F0" stroke-width="1"/>
+<text x="267.69" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">20</text>
+<rect x="309.23" y="516" width="83.08" height="44" fill="#494454" stroke="#E2E8F0" stroke-width="1"/>
+<text x="350.77" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">30</text>
+<rect x="392.31" y="516" width="83.08" height="44" fill="#615C6C" stroke="#E2E8F0" stroke-width="1"/>
+<text x="433.85" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">40</text>
+<rect x="475.38" y="516" width="83.08" height="44" fill="#7B7486" stroke="#E2E8F0" stroke-width="1"/>
+<text x="516.92" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">50</text>
+<rect x="558.46" y="516" width="83.08" height="44" fill="#958EA0" stroke="#E2E8F0" stroke-width="1"/>
+<text x="600.00" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">60</text>
+<rect x="641.54" y="516" width="83.08" height="44" fill="#B0A8BB" stroke="#E2E8F0" stroke-width="1"/>
+<text x="683.08" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">70</text>
+<rect x="724.62" y="516" width="83.08" height="44" fill="#CBC3D7" stroke="#E2E8F0" stroke-width="1"/>
+<text x="766.15" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">80</text>
+<rect x="807.69" y="516" width="83.08" height="44" fill="#E8DFF3" stroke="#E2E8F0" stroke-width="1"/>
+<text x="849.23" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">90</text>
+<rect x="890.77" y="516" width="83.08" height="44" fill="#F6EDFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="932.31" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">95</text>
+<rect x="973.85" y="516" width="83.08" height="44" fill="#FFFBFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1015.38" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">99</text>
+<rect x="1056.92" y="516" width="83.08" height="44" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="1098.46" y="543" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#000000" text-anchor="middle">100</text>
+<text x="60" y="602" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="18" font-weight="800" fill="#0F172A">Роли: светлая и тёмная схема</text>
+<text x="420" y="632" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" fill="#475569">Светлая</text>
+<text x="780" y="632" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="700" fill="#475569">Тёмная</text>
+<text x="60" y="676" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="15" font-weight="700" fill="#0F172A">Primary</text>
+<rect x="420" y="648" width="300" height="46" rx="10" fill="#6B38D4" stroke="#E2E8F0" stroke-width="1"/>
+<text x="436" y="677" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF">Aa</text>
+<text x="704" y="677" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="end">#6B38D4</text>
+<rect x="780" y="648" width="300" height="46" rx="10" fill="#D0BCFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="796" y="677" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#3C0091">Aa</text>
+<text x="1064" y="677" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#3C0091" text-anchor="end">#D0BCFF</text>
+<text x="60" y="732" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="15" font-weight="700" fill="#0F172A">Primary container</text>
+<rect x="420" y="704" width="300" height="46" rx="10" fill="#8455EF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="436" y="733" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#FFFBFF">Aa</text>
+<text x="704" y="733" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#FFFBFF" text-anchor="end">#8455EF</text>
+<rect x="780" y="704" width="300" height="46" rx="10" fill="#A078FF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="796" y="733" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#14003B">Aa</text>
+<text x="1064" y="733" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#14003B" text-anchor="end">#A078FF</text>
+<text x="60" y="788" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="15" font-weight="700" fill="#0F172A">Secondary</text>
+<rect x="420" y="760" width="300" height="46" rx="10" fill="#665396" stroke="#E2E8F0" stroke-width="1"/>
+<text x="436" y="789" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF">Aa</text>
+<text x="704" y="789" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="end">#665396</text>
+<rect x="780" y="760" width="300" height="46" rx="10" fill="#D0BCFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="796" y="789" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#372464">Aa</text>
+<text x="1064" y="789" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#372464" text-anchor="end">#D0BCFF</text>
+<text x="60" y="844" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="15" font-weight="700" fill="#0F172A">Tertiary</text>
+<rect x="420" y="816" width="300" height="46" rx="10" fill="#006591" stroke="#E2E8F0" stroke-width="1"/>
+<text x="436" y="845" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF">Aa</text>
+<text x="704" y="845" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="end">#006591</text>
+<rect x="780" y="816" width="300" height="46" rx="10" fill="#89CEFF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="796" y="845" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#00344D">Aa</text>
+<text x="1064" y="845" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#00344D" text-anchor="end">#89CEFF</text>
+<text x="60" y="900" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="15" font-weight="700" fill="#0F172A">Error</text>
+<rect x="420" y="872" width="300" height="46" rx="10" fill="#BA1A1A" stroke="#E2E8F0" stroke-width="1"/>
+<text x="436" y="901" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF">Aa</text>
+<text x="704" y="901" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="end">#BA1A1A</text>
+<rect x="780" y="872" width="300" height="46" rx="10" fill="#FFB4AB" stroke="#E2E8F0" stroke-width="1"/>
+<text x="796" y="901" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#690005">Aa</text>
+<text x="1064" y="901" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#690005" text-anchor="end">#FFB4AB</text>
+<text x="60" y="956" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="15" font-weight="700" fill="#0F172A">Surface</text>
+<rect x="420" y="928" width="300" height="46" rx="10" fill="#FEF7FF" stroke="#E2E8F0" stroke-width="1"/>
+<text x="436" y="957" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#1D1A23">Aa</text>
+<text x="704" y="957" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1D1A23" text-anchor="end">#FEF7FF</text>
+<rect x="780" y="928" width="300" height="46" rx="10" fill="#15121B" stroke="#E2E8F0" stroke-width="1"/>
+<text x="796" y="957" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="16" font-weight="800" fill="#E7E0ED">Aa</text>
+<text x="1064" y="957" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#E7E0ED" text-anchor="end">#15121B</text>
+<text x="60" y="990" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="13" fill="#64748B">Текст на всех парах ролей ≥ 4.5:1 (WCAG AA). Используйте роли --md-sys-color-*, а не сырые HEX.</text>
+</svg>
